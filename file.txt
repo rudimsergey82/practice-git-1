@@ -1,7 +1,1 @@
-My first line in project
-<<<<<<< HEAD
-
-
-Paris is the capital of France
-=======
->>>>>>> parent of 6bb2523... Capital added and Ukrainian capital too.
+Index practice
