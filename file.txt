@@ -1,1 +1,1 @@
-Index practice
+Hello Git
